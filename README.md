@@ -1,6 +1,8 @@
 # visualstudio_run_as_admin
 
-![Project Image](visualstudio_run_as_admin.png)
+<p align="center">
+  <img src="visualstudio_run_as_admin.png" width="180">
+</p>
 
 Launch Visual Studio as Administrator directly from `.sln` files.
 
