@@ -10,7 +10,7 @@ Launch Visual Studio as Administrator directly from `.sln` files.
 
 # Usage
 
-## Windows 11
+## Windows 10 / Windows 11
 
 Right-click any `.sln` file:
 
