@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("visualstudio_run_as_admin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eb1eb63f43845825fb6d5fb9e4f2eef5d17becb")]
 [assembly: System.Reflection.AssemblyProductAttribute("visualstudio_run_as_admin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("visualstudio_run_as_admin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

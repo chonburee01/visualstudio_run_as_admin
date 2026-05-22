@@ -1,83 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|d:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|solutionrelative:visualstudio_run_as_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|d:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|solutionrelative:visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|d:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|solutionrelative:visualstudio_run_as_admin\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|d:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{38C4AE46-7317-45E3-AC17-A19ED21E167F}|visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj|solutionrelative:visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "visualstudio_run_as_admin.csproj",
-              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "RelativeDocumentMoniker": "visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "RelativeToolTip": "visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-21T06:55:53.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "visualstudio_run_as_admin\\Properties\\Resources.resx",
-              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\Properties\\Resources.resx",
-              "RelativeToolTip": "visualstudio_run_as_admin\\Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-05-21T06:54:58.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "visualstudio_run_as_admin",
-              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "RelativeDocumentMoniker": "visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "RelativeToolTip": "visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-21T06:46:33.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\Program.cs",
-              "RelativeDocumentMoniker": "visualstudio_run_as_admin\\Program.cs",
-              "ToolTip": "D:\\\u0E07\u0E32\u0E19\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\Program.cs",
-              "RelativeToolTip": "visualstudio_run_as_admin\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T06:43:45.709Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

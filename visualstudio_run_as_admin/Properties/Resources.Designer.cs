@@ -59,15 +59,5 @@ namespace visualstudio_run_as_admin.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] visualstudio_run_as_admin {
-            get {
-                object obj = ResourceManager.GetObject("visualstudio_run_as_admin", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
     }
 }

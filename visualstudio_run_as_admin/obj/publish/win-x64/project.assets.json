@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\งาน\\git\\app\\tpg-app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
+      "projectUniqueName": "D:\\งาน\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
       "projectName": "visualstudio_run_as_admin",
-      "projectPath": "D:\\งาน\\git\\app\\tpg-app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
+      "projectPath": "D:\\งาน\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\งาน\\git\\app\\tpg-app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\obj\\publish\\win-x64\\",
+      "outputPath": "D:\\งาน\\git\\app\\app-visualstudio_run_as_admin\\visualstudio_run_as_admin\\visualstudio_run_as_admin\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
